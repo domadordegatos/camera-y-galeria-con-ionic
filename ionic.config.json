@@ -1,5 +1,8 @@
 {
   "name": "galery",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
