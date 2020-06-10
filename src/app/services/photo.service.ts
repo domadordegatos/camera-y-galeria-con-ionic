@@ -3,6 +3,7 @@ import { Plugins, CameraResultType, Capacitor, FilesystemDirectory,
   CameraPhoto, CameraSource } from '@capacitor/core';
 import { PhotoI } from '../models/photo.interface';
 
+
 const { Camera, Filesystem, Storage } = Plugins;
 @Injectable({
   providedIn: 'root'
